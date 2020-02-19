@@ -1,6 +1,6 @@
 # Thesis: Bigdata and Healthcare
 
-(full thesis)[https://github.com/Luca-Castelnuovo/Bigdata-and-Healthcare/blob/master/Thesis%20-%20Bigdata%20and%20Healthcare.pdf]
+[full thesis](https://github.com/Luca-Castelnuovo/Bigdata-and-Healthcare/blob/master/Thesis%20-%20Bigdata%20and%20Healthcare.pdf)
 
 ### Introduction
 In traditional medicine, a doctor decides which medicine or treatment method he or she prescribes based on the results of medical studies. However, there are major objections to these studies. There is often no evidence that the medicine or treatment method is suitable for the individual patient. The results are based on averages. These averages are based on the averages of the group of test subjects. Often these are healthy white men. This is not an average of the population. Children, women, the elderly and people from various ethnic backgrounds are often not taken into account. Also not with people with multiple medical conditions at the same time. Moreover, if studies are repeated, a different result is obtained. So how should doctors trust the advice from the studies? And how does a patient get the treatment that suits him or her?

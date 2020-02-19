@@ -10,7 +10,7 @@ from tensorflow.keras import layers
 from sklearn.model_selection import train_test_split
 
 # Import data set
-DATA_URL = 'https://cdn.lucacastelnuovo.nl/files/bigdata/csv/pre_data.csv'
+DATA_URL = 'https://raw.githubusercontent.com/Luca-Castelnuovo/Urinaltractinfection-Medicineprediction-AI/master/pre_data.csv'
 dataframe = pd.read_csv(DATA_URL)
 
 train, test = train_test_split(dataframe, test_size=0.01)
